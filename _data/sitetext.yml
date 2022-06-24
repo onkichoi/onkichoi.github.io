@@ -30,7 +30,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "As a learning technologist, I create creative, interactive, and measurably effective online courses for online learners."
+    text: "As a learning technologist, I create creative, interactive, and measurably effective online courses for adult learners."
     section: portfolio
     closebutton: "Close Project"
 
