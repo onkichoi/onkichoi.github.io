@@ -142,7 +142,6 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    legal: "Privacy Policy"
     social:
       - url: https://www.linkedin.com/in/on-ki-choi-1100bb38/
         icon: "fab fa-linkedin-in"
