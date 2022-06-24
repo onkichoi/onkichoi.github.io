@@ -5,9 +5,9 @@ image: assets/img/portfolio/kings_ep.png
 alt: Keep Exploring
 
 caption:
-  title: King’s e-Portfolio
-  subtitle: Technical training materials
-  thumbnail: assets/img/portfolio/kings_ep.png
+  title: King’s Raising Concerns (Online Course)
+  subtitle: Policy training materials
+  thumbnail: assets/img/portfolio/Raising concern2.png
 ---
 King’s e-Portfolio is an online system for students in the Faculty of Dentistry, Oral & Craniofacial Sciences of King's College London to track their clinical practice experience and internships. Students provide information that is reviewed by peers and course teachers. I created a training video and written instructions to help students use the system.
 
