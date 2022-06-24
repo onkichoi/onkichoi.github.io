@@ -1,18 +1,15 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: King’s e-Portfolio
+subtitle: Technical training materials
+image: assets/img/portfolio/kings_ep.png
+alt: Keep Exploring
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: King’s e-Portfolio
+  subtitle: Technical training materials
+  thumbnail: assets/img/portfolio/kings_ep.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+King’s e-Portfolio is an online system for students in the Faculty of Dentistry, Oral & Craniofacial Sciences of King's College London to track their clinical practice experience and internships. Students provide information that is reviewed by peers and course teachers. I created a training video and written instructions to help students use the system.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
-
+- Date: June 2021
