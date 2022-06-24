@@ -15,4 +15,4 @@ This new curriculum has won the Technological or Digital Innovation of the Year 
 To supplement in-person teaching and help students getting familiar with the machines' operation, I filmed and created an introduction video and three user guides on three topics, namly 'Setting up the Simulator', 'Operating the Haptic Simulation Application', and 'Troubleshooting the Haptic Simulator' using Articulate Rise. They are used by more than 200 undergraduate students. Interactive elements are used, for example, using image hotspots indicating different parts of the machine.
 
 {:.list-inline}
-- Date: June 2021
+- Date: January 2021
