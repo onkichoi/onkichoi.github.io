@@ -2,7 +2,7 @@
 title: King’s Raising Concerns (Online Course)
 subtitle: Policy training materials
 image: assets/img/portfolio/Raising concern5.png
-alt: A snapshot of the course, showing a cartoon scneario of the teacher reassuring a student who have concerns.
+alt: A snapshot of the course, showing a cartoon scneario of the teacher reassuring a student who have concerns. Below is a snippet of the four thumbnails of each course, a flowchat and a FAQ.
 
 caption:
   title: King’s Raising Concerns (Online Course)
