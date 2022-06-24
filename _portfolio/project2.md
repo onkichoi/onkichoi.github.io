@@ -1,15 +1,15 @@
 ---
-title: King’s e-Portfolio
-subtitle: Technical training materials
-image: assets/img/portfolio/kings_ep.png
-alt: Keep Exploring
+title: King’s Raising Concerns (Online Course)
+subtitle: Policy training materials
+image: assets/img/portfolio/Raising concern2.png
+alt: A snapshot of the course, showing a cartoon scneario of the teacher reassuring a student who have concerns.
 
 caption:
   title: King’s Raising Concerns (Online Course)
   subtitle: Policy training materials
   thumbnail: assets/img/portfolio/Raising concern2.png
 ---
-King’s e-Portfolio is an online system for students in the Faculty of Dentistry, Oral & Craniofacial Sciences of King's College London to track their clinical practice experience and internships. Students provide information that is reviewed by peers and course teachers. I created a training video and written instructions to help students use the system.
+King’s Raising Concerns is a series of four online courses for students in the Faculty of Dentistry, Oral & Craniofacial Sciences of King's College London, designed for undergradutes' induction purpose. The resource was requested by the student experience team of the Faculty, with the learning outcome that students understand the procedures of reporting various concerns to the Faculty. The four topics are around aspects where they most likely encounter concerns or questions, namely about a peer, a tutor’s inappropriate behaviours, patient safety, and patient behaviours. Each course consists of illustrated colorful cartoons which describe the imagined scecnarios accompanied by audio narrations, a flow chart which clearly shows the reporting route and timeline, and multiple FAQ questions collected from students themselves.
 
 {:.list-inline}
-- Date: June 2021
+- Date: August 2021
