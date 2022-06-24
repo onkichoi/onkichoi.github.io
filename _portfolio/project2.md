@@ -1,7 +1,7 @@
 ---
 title: King’s e-Portfolio
 subtitle: Technical training materials
-image: assets/img/portfolio/kings_ep.jpg
+image: assets/img/portfolio/kings_ep.png
 alt: Keep Exploring
 
 caption:
