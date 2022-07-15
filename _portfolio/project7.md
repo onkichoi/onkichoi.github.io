@@ -11,4 +11,4 @@ caption:
 ---
 I created the online course materials ‘Biological tubes’ and ‘Endocrine System’ using Rise for the Florence Nightingale Faculty of Nursing, Midwifery & Palliative Care at King’s College London. I have used images that were created under the guidance of subject matter experts alongside the instructional text, together with different types of interactive quizzes for self-assessment.
 {:.list-inline}
-- Date: June 2022
+Date: June 2022
