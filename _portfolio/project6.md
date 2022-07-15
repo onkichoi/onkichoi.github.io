@@ -2,7 +2,7 @@
 title: King’s Student SharePoint Project
 subtitle: Technical training materials
 image: assets/img/portfolio/SharePoint.png
-alt: A image showing a front page of the course, a video page, and the page with a lip reading game.
+alt: A image showing a front page of Sharepoint.
 
 caption:
   title: King’s Student SharePoint Project
