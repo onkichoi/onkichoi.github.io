@@ -1,8 +1,8 @@
 ---
 title: UCL's Deaf Awareness and Inclusion Training Courses
 subtitle: Professional development training materials
-image: assets/img/portfolio/Lip reading game_big.png
-alt: A image showing one page of the course including a lip reading game.
+image: assets/img/portfolio/Deaf-awareness-pic.jpg
+alt: A image showing a front page of the course, a video page, and the page with a lip reading game.
 
 caption:
   title: UCL's Deaf Awareness and Inclusion Training Courses
