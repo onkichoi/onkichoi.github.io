@@ -1,11 +1,11 @@
 ---
-title: UCL Discover UCL Summer Schools
+title: UCL's Discover UCL Summer Schools
 subtitle: Online self-directed course
 image: assets/img/portfolio/summerschool.jpg
 alt: A image showing a front page of the course, a video page, and the page with a scenario game.
 
 caption:
-  title: UCL Discover UCL Summer Schools
+  title: UCL's Discover UCL Summer Schools
   subtitle: Online self-directed course
   thumbnail: assets/img/portfolio/summerschool_thumbnail.jpg
 ---
