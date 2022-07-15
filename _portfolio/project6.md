@@ -11,4 +11,4 @@ caption:
 ---
 I created several SharePoint pages for students of King’s Faculty of Dentistry, Oral & Craniofacial Sciences to allow them to upload personal volunteering blogs and course portfolios. I created a short video for students explaining the functions of SharePoint. I am in charge of the regular backend management of SharePoint, e.g. enrollment, giving appropriate permissions to teachers and students.
 {:.list-inline}
-- Date: March 2021
+Date: March 2021
