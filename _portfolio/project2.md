@@ -9,7 +9,9 @@ caption:
   subtitle: Policy training materials
   thumbnail: assets/img/portfolio/Raising concern2.png
 ---
-King’s Raising Concerns is a series of four online courses for students in the Faculty of Dentistry, Oral & Craniofacial Sciences of King's College London, designed for undergradutes' induction purpose. The resource was requested by the student experience team of the Faculty, with the learning outcome that students understand the procedures of reporting various concerns to the Faculty. The four topics are around aspects where they most likely encounter concerns or questions, namely about a peer, a tutor’s inappropriate behaviours, patient safety, and patient behaviours. Each course consists of illustrated colorful cartoons which describe the imagined scecnarios accompanied by audio narrations, a flow chart which clearly shows the reporting route and timeline, and multiple FAQ questions collected from current students who are among the reviewers of this course. I produced this course with Articulate Storyline, worked with different stakeholders and adhered to the project deadline when manageing this project. 
+King’s Raising Concerns is a series of four online courses for students in the Faculty of Dentistry, Oral & Craniofacial Sciences of King’s College London, designed for undergraduates’ induction. I worked with the Student Experience Team of the Faculty towards the learning outcome of students understanding the procedures of reporting various concerns to the faculty. I worked with different stakeholders; staff and students reviewed the courses and gave comments during the development process.
+
+The four topics are settings in which concerns are most likely to arise. Namely: about a peer, a tutor’s inappropriate behaviour, patient safety, and patient behaviour. Each course consists of colourfully illustrated cartoons pertaining to the example scenarios, audio narrations, an animated flow chart clearly showing the reporting route and timeline, and multiple FAQ. I produced this course with Articulate Storyline and adhered to the project deadline when managing this project.
 
 {:.list-inline}
 - Date: August 2021
