@@ -2,7 +2,7 @@
 title: King’s e-Portfolio
 subtitle: Technical training materials
 image: assets/img/portfolio/King's eP.png
-alt: A snapshot of the video showing the form filling in process.
+alt: A snapshot of the video showing the form-filling process.
 
 caption:
   title: King’s e-Portfolio
@@ -13,4 +13,3 @@ King’s e-Portfolio is a brand-new online system for students in the Faculty of
 
 
 {:.list-inline}
-- Date: June 2021
