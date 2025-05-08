@@ -14,4 +14,4 @@ I worked on the online learning design of University College London’s seven sh
 I worked closely with a subject matter expert to design and ensure the courses are engaging. I created images, charts, formative learning games, and summative quizzes using H5P and Moodle’s built-in quiz function. In addition, I made sure the courses met the strictest requirements of UCL’s digital accessibility policy. The courses passed rounds of meticulous review processes by review panels before the official release.
 
 {:.list-inline}
-- Date: January 2021
+
