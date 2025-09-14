@@ -1,11 +1,11 @@
 ---
-title: King’s e-Portfolio
+title: e-Portfolio
 subtitle: Technical training materials
 image: assets/img/portfolio/simulation-combined.jpg
 alt: An image showing three snipets of each course and a video.
 
 caption:
-  title: King’s New Digital Dental Simulators Curriculum
+  title: New Digital Dental Simulators Curriculum
   subtitle: Technical training materials
   thumbnail: assets/img/portfolio/User manual cover.png
 ---
