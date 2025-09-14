@@ -5,7 +5,7 @@ image: assets/img/portfolio/King's eP.png
 alt: A snapshot of the video showing the form-filling process.
 
 caption:
-  title: King’s e-Portfolio
+  title: E-Portfolio
   subtitle: Technical training materials
   thumbnail: assets/img/portfolio/King's eP.png
 ---
