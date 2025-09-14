@@ -5,7 +5,7 @@ image: assets/img/portfolio/Survey screenshot.png
 alt: A image showing a chart of the survey result.
 
 caption:
-  title: King’s Teaching Delivery Mode Survey
+  title: Teaching Delivery Mode Survey
   subtitle: Teaching and learning analysis
   thumbnail: assets/img/portfolio/Survey screenshot.png
 ---
