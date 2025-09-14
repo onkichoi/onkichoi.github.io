@@ -1,11 +1,11 @@
 ---
-title: King’s Rise Resources
+title: Rise Resources
 subtitle: Technical training materials
 image: assets/img/portfolio/Rise.jpg
 alt: A image showing a front page of the course, a video page, and the page of self assessment.
 
 caption:
-  title: King’s Rise Resources
+  title: Rise Resources
   subtitle: Technical training materials
   thumbnail: assets/img/portfolio/Rise_thumbnail.jpg
 ---
